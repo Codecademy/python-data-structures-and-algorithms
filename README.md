@@ -1,4 +1,4 @@
-# Python Data Structures and Algorithms
+# Data Structures and Algorithms
 
 **Curriculum Developer:** [Alisha Grama](alisha@codecademy.com) 
 
