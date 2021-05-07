@@ -14,7 +14,7 @@ https://www.codecademy.com/learn/paths/computer-science
 
 **Towers of Hanoi:**
 
-- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/sorting-algorithms/a-sorted-tale/script.py)
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/stacks/towers-of-hanoi/script.py)
 
 ## Sorting Algorithms
 
