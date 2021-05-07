@@ -14,7 +14,7 @@ https://www.codecademy.com/learn/paths/computer-science
 
 **A Sorted Tale:**
 
-- [x] [`script.py`](python-data-structures-and-algorithms/sorting-algorithms/a-sorted-tale/script.py)
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/sorting-algorithms/a-sorted-tale/script.py)
 
 ## Trees
 
