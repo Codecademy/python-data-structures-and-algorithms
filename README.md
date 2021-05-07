@@ -14,7 +14,7 @@ https://www.codecademy.com/learn/paths/computer-science
 
 **A Sorted Tale:**
 
-- [x] [`initials.py`](1-hello-world/block-letters/initials.swift) []() []()
+- [x] [`script.py`](python-data-structures-and-algorithms/blob/main/sorting-algorithms/a-sorted-tale/script.py)
 
 ## Trees
 
