@@ -43,11 +43,13 @@ https://www.codecademy.com/learn/paths/computer-science
 ## Greedy Algorithm
 
 **Traveling Salesperson**
+
 - [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/greedy-algorithm/traveling-salesperson/script.py)
 
 ## Dynamic Programming
 
 **Longest Common Subsequence**
-- [x] 
+
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/dynamic-programming/longest-common-subsequence/script.py)
 
 
