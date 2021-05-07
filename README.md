@@ -31,7 +31,8 @@ https://www.codecademy.com/learn/paths/computer-science
 ## Trees
 
 **Choose Your Own Adventure: Wilderness Escape**
-- [x] 
+
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/trees/wilderness-escape/script.py)
 
 ## Graphs and Graph Search
 
