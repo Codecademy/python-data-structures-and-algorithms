@@ -23,9 +23,7 @@ def longest_common_subsequence(string_1, string_2):
       col -= 1
   result.reverse()
   return "".join(result)
-      
-      
-        
+          
 s1 = 'ACCGTT'
 s2 = 'CCAGCA'
 print(longest_common_subsequence(s1, s2))
