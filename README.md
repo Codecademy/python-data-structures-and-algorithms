@@ -10,6 +10,12 @@
 
 https://www.codecademy.com/learn/paths/computer-science
 
+## Stacks
+
+**Towers of Hanoi:**
+
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/sorting-algorithms/a-sorted-tale/script.py)
+
 ## Sorting Algorithms
 
 **A Sorted Tale:**
