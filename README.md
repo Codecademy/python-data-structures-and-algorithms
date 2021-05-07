@@ -18,5 +18,22 @@ https://www.codecademy.com/learn/paths/computer-science
 
 ## Trees
 
-**Choose Your Own Adventure: Wilderness Escape
+**Choose Your Own Adventure: Wilderness Escape**
 - [x] 
+
+## Graphs and Graph Search
+
+**SkyRoutee**
+- [x] 
+
+## Greedy Algorithm
+
+**Travelling Salesperson**
+- [x]
+
+## Dynamic Programming
+
+**Longest Common Subsequence**
+- [x] 
+
+
