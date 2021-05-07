@@ -16,6 +16,12 @@ https://www.codecademy.com/learn/paths/computer-science
 
 - [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/stacks/towers-of-hanoi/script.py)
 
+## Hash Maps
+
+**Blossom:**
+
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/stacks/towers-of-hanoi/script.py)
+
 ## Sorting Algorithms
 
 **A Sorted Tale:**
