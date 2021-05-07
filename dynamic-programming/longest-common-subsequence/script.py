@@ -10,7 +10,6 @@ def longest_common_subsequence(string_1, string_2):
       else:
         grid[row][col] = max(grid[row - 1][col], grid[row][col - 1])
 
-
   result = []
   while row > 0 and col > 0:
     if string_1[col - 1] == string_2[row - 1]:
