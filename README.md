@@ -10,4 +10,13 @@
 
 https://www.codecademy.com/learn/paths/computer-science
 
-## asdf
+## Sorting Algorithms
+
+**A Sorted Tale:**
+
+- [x] [`initials.py`](1-hello-world/block-letters/initials.swift) []() []()
+
+## Trees
+
+**Choose Your Own Adventure: Wilderness Escape
+- [x] 
