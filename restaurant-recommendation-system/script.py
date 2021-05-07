@@ -77,7 +77,3 @@ while len(selected_food_type) == 0:
             repeat_loop = str(input("\nDo you want to find other restaurants? Enter y for yes and n for no.\n")).lower()
             if repeat_loop == 'y':
                 selected_food_type = ""
-
-
-
-
