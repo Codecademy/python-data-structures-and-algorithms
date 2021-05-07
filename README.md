@@ -52,7 +52,7 @@ https://www.codecademy.com/learn/paths/computer-science
 
 - [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/dynamic-programming/longest-common-subsequence/script.py)
 
-## Recommendation System
+## Recommendation System (Portfolio Project)
 
 - [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/restaurant-recommendation-system/script.py)
 
