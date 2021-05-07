@@ -20,7 +20,7 @@ https://www.codecademy.com/learn/paths/computer-science
 
 **Blossom:**
 
-- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/stacks/towers-of-hanoi/script.py)
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/hash-maps/blossom/script.py)
 
 ## Sorting Algorithms
 
