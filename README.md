@@ -42,8 +42,8 @@ https://www.codecademy.com/learn/paths/computer-science
 
 ## Greedy Algorithm
 
-**Travelling Salesperson**
-- [x]
+**Traveling Salesperson**
+- [x] [`script.py`](https://github.com/Codecademy/python-data-structures-and-algorithms/blob/main/greedy-algorithm/traveling-salesperson/script.py)
 
 ## Dynamic Programming
 
